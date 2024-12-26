@@ -4,17 +4,25 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+A simple Flutter application that displays a dashboard of available ride options with detailed ride information on tap. The app includes a login screen, a dashboard screen with mock data, and ride details with enhanced UI elements.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Login functionality with validation.
+- Dashboard with mock ride options.
+- Ride details page with information about the ride, driver, and vehicle.
+- Bottom navigation bar with settings, profile, search, and map options.
+- Customizable UI with pink and white theme.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 
+## Setup Instructions
+
+### Prerequisites
+
+- Ensure that you have **Flutter** and **Dart** installed on your machine. You can download Flutter from the official site: [Flutter Installation](https://flutter.dev/docs/get-started/install).
+- You need to have an **Android Emulator** or **Physical Device** set up for testing the app.
+
+  
 Here are a few screenshots from the application:
 ![Screenshot 2024-12-26 231620](https://github.com/user-attachments/assets/be2b9639-8bdd-4064-855a-d1b23995a92c)
 ![Screenshot 2024-12-26 231632](https://github.com/user-attachments/assets/92cb19de-b0bf-46f9-8d92-8e1b53560edd)
