@@ -22,6 +22,8 @@ A simple Flutter application that displays a dashboard of available ride options
 - Ensure that you have **Flutter** and **Dart** installed on your machine. You can download Flutter from the official site: [Flutter Installation](https://flutter.dev/docs/get-started/install).
 - You need to have an **Android Emulator** or **Physical Device** set up for testing the app.
 
+
+
   
 Here are a few screenshots from the application:
 
