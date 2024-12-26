@@ -24,6 +24,8 @@ A simple Flutter application that displays a dashboard of available ride options
 
   
 Here are a few screenshots from the application:
+
+
 ![Screenshot 2024-12-26 231620](https://github.com/user-attachments/assets/be2b9639-8bdd-4064-855a-d1b23995a92c)
 ![Screenshot 2024-12-26 231632](https://github.com/user-attachments/assets/92cb19de-b0bf-46f9-8d92-8e1b53560edd)
 ![Screenshot 2024-12-26 231656](https://github.com/user-attachments/assets/233e3e6a-f5c4-4974-94df-99607be71abc)
